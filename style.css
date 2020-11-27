@@ -1,0 +1,16 @@
+
+.card {
+    padding: 5px;
+    border-radius: 15px;
+}
+.dashboardRow{
+    padding-bottom: 10px;
+}
+.progressIcon{
+    font-size: 40px;
+    text-align: right;
+}
+.dashboardTitle{
+    padding-top: 10px;
+    color: #66615b;
+}
